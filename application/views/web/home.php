@@ -54,7 +54,7 @@ http://www.templatemo.com/tm-515-eatery
                 </button>
 
                 <!-- lOGO TEXT HERE -->
-                <a href="index.html" class="navbar-brand">Cari Cafe <span>Yuk</span></a>
+                <a href="#" class="navbar-brand">Cari Cafe <span>Yuk</span></a>
             </div>
 
             <!-- MENU LINKS -->
