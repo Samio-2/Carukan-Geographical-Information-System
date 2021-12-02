@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Cari Cafe Yuk</title>
+    <title>Carukan</title>
     <!-- 
 
 Eatery Cafe Template 
@@ -54,7 +54,7 @@ http://www.templatemo.com/tm-515-eatery
                 </button>
 
                 <!-- lOGO TEXT HERE -->
-                <a href="#" class="navbar-brand">Cari Cafe <span>Yuk</span></a>
+                <a href="#" class="navbar-brand">Caru<span>kan</span></a>
             </div>
 
             <!-- MENU LINKS -->
@@ -127,16 +127,17 @@ http://www.templatemo.com/tm-515-eatery
                     <div class="about-info">
                         <div class="section-title wow fadeInUp" data-wow-delay="0.2s">
                             <h4>Baca cerita kami</h4>
-                            <h2>Cari Cafe Yuk Website Apasih?</h2>
+                            <h2>Carukan Website Apasih?</h2>
                         </div>
 
                         <div class="wow fadeInUp" data-wow-delay="0.4s">
                             <p>
                                 Bagi kalian para pecinta makanan yang masih bingung cari tempat makan yang lezat dan
-                                nyaman di daerah Pagedangan, maka <a href="#about"> Cari Cafe Yuk </a> adalah solusinya.
+                                nyaman di daerah Pagedangan, maka <a href="#about">Carukan</a>: Cari Rumah Makan adalah
+                                solusinya.
                             </p>
                             <p>
-                                <a href="#about"> Cari Cafe Yuk </a> merupakan website yang memberitahu pengguna
+                                <a href="#about">Carukan</a> merupakan website yang memberitahu pengguna
                                 mengenai persebaran tempat makan seperti cafe, restaurant, dan lain sebagainya di daerah
                                 Pagedangan. Pengguna dapat melihat persebaran tempat makan yang ada pada website ini
                                 dibagian <a href="#map">Map</a>. Yuk cek ada tempat makan apa aja di daerah Pagedangan!
