@@ -133,14 +133,16 @@ http://www.templatemo.com/tm-515-eatery
                         <div class="wow fadeInUp" data-wow-delay="0.4s">
                             <p>
                                 Bagi kalian para pecinta makanan yang masih bingung cari tempat makan yang lezat dan
-                                nyaman di daerah Pagedangan, maka <a href="#about">Carukan</a>: Cari Rumah Makan adalah
+                                nyaman di daerah Pagedangan, maka <a href="#about" class="smoothScroll">Carukan</a>:
+                                Cari Rumah Makan adalah
                                 solusinya.
                             </p>
                             <p>
                                 <a href="#about">Carukan</a> merupakan website yang memberitahu pengguna
                                 mengenai persebaran tempat makan seperti cafe, restaurant, dan lain sebagainya di daerah
                                 Pagedangan. Pengguna dapat melihat persebaran tempat makan yang ada pada website ini
-                                dibagian <a href="#map">Map</a>. Yuk cek ada tempat makan apa aja di daerah Pagedangan!
+                                dibagian <a href="#map" class="smoothScroll">Map</a>. Yuk cek ada tempat makan apa aja
+                                di daerah Pagedangan!
                             </p>
                         </div>
                     </div>
@@ -387,7 +389,8 @@ http://www.templatemo.com/tm-515-eatery
                     <div class="isi wow fadeInUp" data-wow-delay="0.5s">
                         <p>Halo SIpilion, kenalin saya Muhammad Sami dari jurusan Sistem Informasi semester 7 di
                             Universitas Islam Negeri Syarif Hidayatullah Jakarta. Saya memiliki hobi membaca, desain dan
-                            ngoding. <a href="#about">Carukan</a> adalah website yang dibuat untuk menyelesaikan tugas
+                            ngoding. <a href="#about" class="smoothScroll">Carukan</a> adalah website yang dibuat untuk
+                            menyelesaikan tugas
                             mata kuliah
                             Aplikasi dan Website Sistem Informasi Geografis yang diampu oleh ibu Eva Khudzaeva, M.Si.
                         </p>
