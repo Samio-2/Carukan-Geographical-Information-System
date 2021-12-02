@@ -138,10 +138,11 @@ http://www.templatemo.com/tm-515-eatery
                                 solusinya.
                             </p>
                             <p>
-                                <a href="#about">Carukan</a> merupakan website yang memberitahu pengguna
-                                mengenai persebaran tempat makan seperti cafe, restaurant, dan lain sebagainya di daerah
-                                Pagedangan. Pengguna dapat melihat persebaran tempat makan yang ada pada website ini
-                                dibagian <a href="#map" class="smoothScroll">Map</a>. Yuk cek ada tempat makan apa aja
+                                <a href="#about" class="smoothScroll">Carukan</a> merupakan website yang memberitahu
+                                pengguna mengenai persebaran tempat makan seperti cafe, restaurant, dan lain sebagainya
+                                di daerah Pagedangan. Pengguna dapat melihat persebaran tempat makan yang ada pada
+                                website ini dibagian <a href="#map" class="smoothScroll">Map</a>. Yuk cek ada tempat
+                                makan apa aja
                                 di daerah Pagedangan!
                             </p>
                         </div>
