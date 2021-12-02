@@ -387,7 +387,8 @@ http://www.templatemo.com/tm-515-eatery
                     <div class="isi wow fadeInUp" data-wow-delay="0.5s">
                         <p>Halo SIpilion, kenalin saya Muhammad Sami dari jurusan Sistem Informasi semester 7 di
                             Universitas Islam Negeri Syarif Hidayatullah Jakarta. Saya memiliki hobi membaca, desain dan
-                            ngoding. Cari Cafe Yuk adalah website yang dibuat untuk menyelesaikan tugas mata kuliah
+                            ngoding. <a href="#about">Carukan</a> adalah website yang dibuat untuk menyelesaikan tugas
+                            mata kuliah
                             Aplikasi dan Website Sistem Informasi Geografis yang diampu oleh ibu Eva Khudzaeva, M.Si.
                         </p>
                     </div>
