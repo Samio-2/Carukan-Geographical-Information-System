@@ -157,7 +157,9 @@ $.getJSON("<?= base_url() ?>assets/data/provinsi.geojson", function(data) {
     });
     L.geoJson(data, {
         pointToLayer: function(feature, latlng) {
-            var marker = L.marker(latlng);
+            var marker = L.marker(latlng, {
+                icon: ratIcon
+            });
             marker.bindPopup(feature.properties.CITY_NAME);
             return marker;
         }
@@ -217,8 +219,8 @@ $.getJSON("<?= base_url() ?>assets/data/puskesmas.geojson", function(data) {
 //Tempat Makan
 $.getJSON("<?= base_url() ?>assets/data/tempat_makan.geojson", function(data) {
     var ratIcon = L.icon({
-        iconUrl: '<?= base_url() ?>assets/images/marker-2.png',
-        iconSize: [22, 20]
+        iconUrl: '<?= base_url() ?>assets/images/marker-3.png',
+        iconSize: [32, 30]
     });
     L.geoJson(data, {
         pointToLayer: function(feature, latlng) {
