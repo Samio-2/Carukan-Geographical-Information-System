@@ -180,7 +180,6 @@ http://www.templatemo.com/tm-515-eatery
                 </div>
             </div>
         </div>
-        </div>
     </section>
 
     <!-- GALLERY -->
