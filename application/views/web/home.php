@@ -390,7 +390,6 @@ http://www.templatemo.com/tm-515-eatery
                         <p>Pengembang Web</p>
                     </div>
                 </div>
-
                 <div class="col-md-8 col-sm-8">
                     <div class="isi wow fadeInUp" data-wow-delay="0.5s">
                         <p>Halo SIpilion, kenalin saya Muhammad Sami dari jurusan Sistem Informasi semester 7 di
