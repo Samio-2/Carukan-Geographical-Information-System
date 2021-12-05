@@ -1,17 +1,17 @@
-# RewriteEngine On
-# RewriteCond %{REQUEST_FILENAME} !-f
-# RewriteCond %{REQUEST_FILENAME} !-d
-# RewriteRule ^(.*)$ index.php/$1 [L]
-
 RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
 
-RewriteCond %{REQUEST_URI}::$1 ^(/.+)/(.*)::\2$
-RewriteRule ^(.*) - [E=BASE:%1]
+# RewriteEngine On
 
-RewriteCond %{ENV:REDIRECT_STATUS} ^$
-RewriteRule ^app\.php(/(.*)|$) %{ENV:BASE}/$2 [R=301,L]
+# RewriteCond %{REQUEST_URI}::$1 ^(/.+)/(.*)::\2$
+# RewriteRule ^(.*) - [E=BASE:%1]
 
-RewriteCond %{REQUEST_FILENAME} -f
-RewriteRule .? - [L]
+# RewriteCond %{ENV:REDIRECT_STATUS} ^$
+# RewriteRule ^app\.php(/(.*)|$) %{ENV:BASE}/$2 [R=301,L]
 
-RewriteRule .? %{ENV:BASE}/app.php [L]
+# RewriteCond %{REQUEST_FILENAME} -f
+# RewriteRule .? - [L]
+
+# RewriteRule .? %{ENV:BASE}/app.php [L]
