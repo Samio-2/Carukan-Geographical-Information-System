@@ -233,7 +233,7 @@ $.getJSON("<?= base_url() ?>assets/data/tempat_makan.geojson", function(data) {
             marker.bindPopup(
                 '<img src = "<?= base_url() ?>assets/web/images/tempat/' +
                 gambar +
-                '.png" width="300px">' +
+                '.png" width="300px" style="border-radius: 10px;">' +
                 '<p> Nama: ' + nama + ' </p>' +
                 '<p> Alamat: ' + alamat + '</p>');
             // marker.bindPopup(feature.properties.Nama);

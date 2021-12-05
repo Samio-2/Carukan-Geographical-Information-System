@@ -176,7 +176,8 @@ http://www.templatemo.com/tm-515-eatery
                     </div>
                 </div>
                 <div class="col-md-12 col-sm-12">
-                    <iframe src="<?= base_url() ?>/home" width="100%" height="620px" frameborder="0"></iframe>
+                    <iframe src="<?= base_url() ?>home" width="100%" height="620px" class="section-title wow fadeInUp"
+                        data-wow-delay="0.1s" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
