@@ -31,17 +31,6 @@ http://www.templatemo.com/tm-515-eatery
 
 <body>
 
-    <!-- PRE LOADER -->
-    <section class="preloader">
-        <div class="spinner">
-
-            <span class="spinner-rotate"></span>
-
-        </div>
-    </section>
-
-
-    <!-- MENU -->
     <!-- MENU -->
     <section class="navbar custom-navbar navbar-fixed-top" role="navigation">
         <div class="container">

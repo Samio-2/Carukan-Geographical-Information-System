@@ -3,10 +3,7 @@
   "use strict";
 
     // PRE LOADER
-    $(window).load(function(){
-      $('.preloader').fadeOut(20); // set duration in brackets    
-    });
-
+ 
 
     // MENU
     $('.navbar-collapse a').on('click',function(){
