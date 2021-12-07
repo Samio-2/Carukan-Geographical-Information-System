@@ -32,13 +32,13 @@ http://www.templatemo.com/tm-515-eatery
 <body>
 
     <!-- PRE LOADER -->
-    <section class="preloader">
+    <!-- <section class="preloader">
         <div class="spinner">
 
             <span class="spinner-rotate"></span>
 
         </div>
-    </section>
+    </section> -->
 
 
     <!-- MENU -->
