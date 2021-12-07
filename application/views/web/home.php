@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-    <base href="<?= base_url() ?>">
     <link rel="icon" href="<?= base_url() ?>assets/web/images/logo1.png">
     <title>Carukan</title>
     <!-- 
