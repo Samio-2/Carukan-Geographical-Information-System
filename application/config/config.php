@@ -29,7 +29,7 @@ $config['base_url'] .= "://" . $_SERVER['HTTP_HOST'];
 
 $config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
 
-var_dump($_SERVER['HTTP_X_FORWARDED_FOR']);
+// var_dump($_SERVER['HTTP_X_FORWARDED_FOR']);
 
 // var_dump($_SERVER['HTTPS']) == "1";
 
