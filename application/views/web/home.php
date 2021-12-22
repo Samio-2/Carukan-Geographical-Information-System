@@ -56,8 +56,7 @@ http://www.templatemo.com/tm-515-eatery
                 <!-- lOGO TEXT HERE -->
 
                 <a href="#" class="navbar-brand" style="margin-left: 30px;">
-                    <img src="<?= base_url() ?>assets/web/images/logo1.png" width="30px"
-                        style="position: absolute; margin-left: -30px" alt="">
+                    <img src="<?= base_url() ?>assets/web/images/logo1.png" width="30px" style="position: absolute; margin-left: -30px" alt="">
                     Caru<span>kan</span>
                 </a>
             </div>
@@ -175,8 +174,7 @@ http://www.templatemo.com/tm-515-eatery
                     </div>
                 </div>
                 <div class="col-md-12 col-sm-12">
-                    <iframe src="<?= base_url('home') ?>" width="100%" height="645px" class="section-title wow fadeInUp"
-                        data-wow-delay="0.1s" frameborder="0"></iframe>
+                    <iframe src="<?= base_url('home') ?>" width="100%" height="645px" class="section-title wow fadeInUp" data-wow-delay="0.1s" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
@@ -197,10 +195,8 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/bangka.png" class="image-popup"
-                            title="Bakmi Bangka Asli 17">
-                            <img src="<?= base_url() ?>assets/web/images/tempat/bangka.png" class="img-responsive"
-                                alt="">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/bangka.png" class="image-popup" title="Bakmi Bangka Asli 17">
+                            <img src="<?= base_url() ?>assets/web/images/tempat/bangka.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
                                 <div class="menu-item">
@@ -215,10 +211,8 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/budew.png" class="image-popup"
-                            title="Ayam Bakar Bumbu Rujak Resep Budew">
-                            <img src="<?= base_url() ?>assets/web/images/tempat/budew.png" class="img-responsive"
-                                alt="">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/budew.png" class="image-popup" title="Ayam Bakar Bumbu Rujak Resep Budew">
+                            <img src="<?= base_url() ?>assets/web/images/tempat/budew.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
                                 <div class="menu-item">
@@ -233,10 +227,8 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/ceker.png" class="image-popup"
-                            title="Ayam Bakar Ceker">
-                            <img src="<?= base_url() ?>assets/web/images/tempat/ceker.png" class="img-responsive"
-                                alt="">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/ceker.png" class="image-popup" title="Ayam Bakar Ceker">
+                            <img src="<?= base_url() ?>assets/web/images/tempat/ceker.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
                                 <div class="menu-item">
@@ -251,8 +243,7 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/koga.png" class="image-popup"
-                            title="Mie Ayam Koga">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/koga.png" class="image-popup" title="Mie Ayam Koga">
                             <img src="<?= base_url() ?>assets/web/images/tempat/koga.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
@@ -268,8 +259,7 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/dafi.png" class="image-popup"
-                            title="Mie Ayam Dafi">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/dafi.png" class="image-popup" title="Mie Ayam Dafi">
                             <img src="<?= base_url() ?>assets/web/images/tempat/dafi.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
@@ -285,8 +275,7 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/ean.png" class="image-popup"
-                            title="Sambel Nampol Mama Ean">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/ean.png" class="image-popup" title="Sambel Nampol Mama Ean">
                             <img src="<?= base_url() ?>assets/web/images/tempat/ean.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
@@ -302,10 +291,8 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/gareng.png" class="image-popup"
-                            title="Bakso Gareng Wonogiri">
-                            <img src="<?= base_url() ?>assets/web/images/tempat/gareng.png" class="img-responsive"
-                                alt="">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/gareng.png" class="image-popup" title="Bakso Gareng Wonogiri">
+                            <img src="<?= base_url() ?>assets/web/images/tempat/gareng.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
                                 <div class="menu-item">
@@ -321,10 +308,8 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/gembus.png" class="image-popup"
-                            title="Ayam Gepuk Pak Gembus">
-                            <img src="<?= base_url() ?>assets/web/images/tempat/gembus.png" class="img-responsive"
-                                alt="">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/gembus.png" class="image-popup" title="Ayam Gepuk Pak Gembus">
+                            <img src="<?= base_url() ?>assets/web/images/tempat/gembus.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
                                 <div class="menu-item">
@@ -339,10 +324,8 @@ http://www.templatemo.com/tm-515-eatery
                 <div class="col-md-4 col-sm-6">
                     <!-- MENU THUMB -->
                     <div class="menu-thumb wow fadeInUp">
-                        <a href="<?= base_url() ?>assets/web/images/tempat/gendut.png" class="image-popup"
-                            title="Bubur Ayam Pak Gendut">
-                            <img src="<?= base_url() ?>assets/web/images/tempat/gendut.png" class="img-responsive"
-                                alt="">
+                        <a href="<?= base_url() ?>assets/web/images/tempat/gendut.png" class="image-popup" title="Bubur Ayam Pak Gendut">
+                            <img src="<?= base_url() ?>assets/web/images/tempat/gendut.png" class="img-responsive" alt="">
 
                             <div class="menu-info">
                                 <div class="menu-item">
@@ -378,8 +361,7 @@ http://www.templatemo.com/tm-515-eatery
                             <div class="team-item" data-wow-delay="0.2s">
                                 <h4>"Lakukan apapun yang ingin kau lakukan"</h4>
                                 <ul class="social-icon wow fadeInUp" data-wow-delay="0.2s">
-                                    <li><a href="https://www.linkedin.com/in/muh-sami/"
-                                            class="fa fa-linkedin-square"></a></li>
+                                    <li><a href="https://www.linkedin.com/in/muh-sami/" class="fa fa-linkedin-square"></a></li>
                                     <li><a href="https://dribbble.com/samio2" class="fa fa-dribbble"></a></li>
                                 </ul>
                             </div>

@@ -23,11 +23,14 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link rel="stylesheet" href="<?= base_url() ?>assets/leaflet.groupedlayercontrol.css" />
     <link rel="stylesheet" href="<?= base_url() ?>assets/Control.MiniMap.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
-    <link rel="stylesheet"
-        href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.css" />
+    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.css" />
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/L.Control.ZoomBar.css" />
     <link rel="stylesheet" href="<?= base_url() ?>assets/Leaflet.Coordinates-0.1.5.css" />
+    <link rel="stylesheet" href="<?= base_url() ?>assets/leaflet.legend.css" />
 
+    
+    
+    
     <script src="<?= base_url() ?>assets/template/plugins/jquery/jquery.min.js"></script>
     <!-- Bootstrap 4 -->
     <script src="<?= base_url() ?>assets/template/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -42,4 +45,5 @@ scratch. This page gets rid of all links and provides the needed markup only.
     </script>
     <script type="text/javascript" src="<?= base_url() ?>assets/L.Control.ZoomBar.js"></script>
     <script type="text/javascript" src="<?= base_url() ?>assets/Leaflet.Coordinates-0.1.5.min.js"></script>
+    <script type="text/javascript" src="<?= base_url() ?>assets/leaflet.legend.js"></script>
 </head>
