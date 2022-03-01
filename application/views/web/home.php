@@ -356,7 +356,6 @@ http://www.templatemo.com/tm-515-eatery
 
                 <div class="col-md-4 col-sm-4">
                     <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="<?= base_url() ?>assets/web/images/sami.png" class="img-responsive" alt="">
                         <div class="team-hover">
                             <div class="team-item" data-wow-delay="0.2s">
                                 <h4>"Lakukan apapun yang ingin kau lakukan"</h4>
